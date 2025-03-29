@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 I’m Andres Efren Rocha Jayasinha, a dedicated and curious researcher with a strong technical background. I am currently pursuing a double major in Mathematics and Statistics, along with a cross-disciplinary minor in Data Science at California Polytechnic State University, San Luis Obispo. I am deeply passionate about my research and taking on projects that have real world impact and/or insight.  
 
 ## Education
