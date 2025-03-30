@@ -78,6 +78,8 @@ Relevant Coursework:
 - Performed feature selection via recursive feature elimination, then trained a ridge regression model  
 - Achieved an average R-squared of 0.71, placing it among the best-performing models for predicting annual dollar sales in Iowa
 
+---
+
 [Link](https://github.com/arochaja/Forecasting-Iowa-s-Liquor-Trends)
 
 
@@ -146,6 +148,7 @@ Relevant Coursework:
 - **De Ir Hacia Adelante (Summer 2022)**  
   *Article highlighting community service to Cal Poly and California Central Valley High Schools*  
 
+---
   [Link](https://magazine.calpoly.edu/fall-2022/de-ir-hacia-adelante/)
 
 - **Dean’s List (3x)**  
