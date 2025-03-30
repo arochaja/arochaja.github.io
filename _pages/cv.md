@@ -32,6 +32,7 @@ Relevant Coursework:
 - Databases  
 - Data Structures  
 - Numerical Analysis  
+- Partial Differential Equations
 - Applied Linear Models  
 - Mathematical Foundations of Data Science  
 - Artificial Intelligence  
@@ -59,17 +60,24 @@ Relevant Coursework:
 - Implement code to compute Finite-Time Lyapunov Exponents (FTLE) and migrate data from MATLAB to Python  
 - Currently performing Principal Component Analysis (PCA) on FTLE data for enhanced data interpolation
 
-**Forecasting Iowa’s Liquor Trends (Academic Project)**  
-*Fall 2024*  
-- Retrieved and merged Iowa liquor sales data from the Iowa Open Data portal with US Census data using SQL and Pandas  
-- Performed feature selection via recursive feature elimination, then trained a ridge regression model  
-- Achieved an average R-squared of 0.71, placing it among the best-performing models for predicting annual dollar sales in Iowa
 
 **Financial Derivatives and Options Portfolio (Academic Project)**  
 *Spring 2024*  
 - Analyzed 110+ scenarios related to fundamental concepts of mathematical finance  
 - Applied binomial trees, the Black-Scholes Model, and put-call parity to real-world options pricing  
 - Used optimization techniques (e.g., Simplex Method) for practical finance applications  
+
+[Link](https://github.com/arochaja/Portfolio-of-Financial-Derivatives-and-Options)
+
+
+**Forecasting Iowa’s Liquor Trends (Academic Project)**  
+*Fall 2024*  
+- Retrieved and merged Iowa liquor sales data from the Iowa Open Data portal with US Census data using SQL and Pandas  
+- Performed feature selection via recursive feature elimination, then trained a ridge regression model  
+- Achieved an average R-squared of 0.71, placing it among the best-performing models for predicting annual dollar sales in Iowa
+
+[Link](https://github.com/arochaja/Forecasting-Iowa-s-Liquor-Trends)
+
 
 ---
 
@@ -98,11 +106,8 @@ Relevant Coursework:
 
 ## Teaching
 
-**Instructional Student Assistant, Cal Poly Computer Science Department**  
+**Databases Instructional Student Assistant, Cal Poly Computer Science Department**  
 *Summer 2024*  
-- Guided 30+ students in relational algebra concepts and MySQL for coursework and final projects  
-- Provided hands-on support through office hours and workshops, boosting average final exam grades by ~8%  
-- Collaborated with professors to grade labs, assignments, and exams
 
 **Calculus Tutor**  
 *Summer 2022 - Fall 2024*  
@@ -138,6 +143,8 @@ Relevant Coursework:
 
 - **De Ir Hacia Adelante (Summer 2022)**  
   *Article highlighting community service to Cal Poly and California Central Valley High Schools*  
+
+  [Link](https://magazine.calpoly.edu/fall-2022/de-ir-hacia-adelante/)
 
 - **Dean’s List (3x)**  
   *Awarded for achieving a quarterly GPA of 3.5 or higher*  
