@@ -67,6 +67,8 @@ Relevant Coursework:
 - Applied binomial trees, the Black-Scholes Model, and put-call parity to real-world options pricing  
 - Used optimization techniques (e.g., Simplex Method) for practical finance applications  
 
+--- 
+
 [Link](https://github.com/arochaja/Portfolio-of-Financial-Derivatives-and-Options)
 
 
