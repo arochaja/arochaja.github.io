@@ -69,7 +69,7 @@ Relevant Coursework:
 
 --- 
 
-[Link](pdfs/MATH_476_Portfolio.pdf)
+[PDF](pdfs/MATH_476_Portfolio.pdf)
 
 <!-- [Link](https://github.com/arochaja/Portfolio-of-Financial-Derivatives-and-Options) -->
 
